@@ -1,0 +1,26 @@
+{
+  "name": "next-js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://leanrob@github.com/leanrob/next-js-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanrob/next-js-project/issues"
+  },
+  "homepage": "https://github.com/leanrob/next-js-project#readme",
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2"
+  }
+}
