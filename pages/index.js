@@ -1,15 +1,16 @@
-import IndexStyle from "../styles/index.style.js"
+import HeaderSection from "./headerSection.js"
 
 const Index = () => (
-	<div className="header-section">
-		<h1>Rob Byrne</h1>
-		<IndexStyle />
-    <style global jsx>{`
-      body {
-        color: white;
-        font-family: courier;
-      }
-    `}</style>
+	<div>
+
+		<HeaderSection />
+		
+	    <style global jsx>{`
+	      body {
+	        color: black;
+	        font-family: courier;
+	      }
+	    `}</style>
 	</div>
 )
 

@@ -1,10 +1,9 @@
-const IndexStyle = () => (
+const HeaderSectionStyle = () => (
 	<style jsx>{`
       .header-section {
         background: url("http://leanrob.com/wp-content/uploads/2016/08/Gmail-bkgrd.png");
         text-align: center;
         padding: 50px;
-        margin: 0;
       }
       @media (min-width: 320px) {
         
@@ -28,4 +27,4 @@ const IndexStyle = () => (
 	</style>
 )
 
-export default IndexStyle
+export default HeaderSectionStyle
