@@ -1,6 +1,15 @@
+import IndexStyle from "../styles/index.style.js"
+
 const Index = () => (
 	<div>
-		<p>Hello Next.js</p>
+		<h1>Rob Byrne</h1>
+		<IndexStyle />
+    <style global jsx>{`
+      body {
+        background: black;
+        font-family: courier;
+      }
+    `}</style>
 	</div>
 )
 
