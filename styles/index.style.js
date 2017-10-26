@@ -1,39 +1,28 @@
 const IndexStyle = () => (
 	<style jsx>{`
-      div {
-        background: red;
+      .header-section {
+        background: url("http://leanrob.com/wp-content/uploads/2016/08/Gmail-bkgrd.png");
         text-align: center;
-        padding: 1em;
+        padding: 50px;
+        margin: 0;
       }
       @media (min-width: 320px) {
-        div {
-          background: green;
-        }
+        
       }
       @media (min-width: 480px) {
-        div {
-          background: blue;
-        }
+        
       }
       @media (min-width: 600px) {
-        div {
-          background: brown;
-        }
+        
       }
       @media (min-width: 801px) {
-        div {
-          background: white;
-        }
+        
       }
       @media (min-width: 1025px) {
-        div {
-          background: black;
-        }
+        
       }
       @media (min-width: 1281px) {
-        div {
-          background: grey;
-        }
+        
       }
 	`}
 	</style>
