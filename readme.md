@@ -80,3 +80,4 @@ This way it is possible to think about design in the same form at I think about 
 Why not?
 
 Check me out on twitter at [@lean_rob](twitter.com/lean_rob)
+or check me out at [leanrob.com](http://www.leanrob.com)
