@@ -27,6 +27,9 @@ The following are some of the technologies, frameworks and methodologies that I 
 [https://github.com/yarnpkg]
 [https://github.com/npm]
 
+GitFlow and Git
+[https://github.com/agis/git-style-guide]
+
 ## Styling in this project
 
 This project uses jsx style markup to create the styles and then import them directly into the markup as React imports.
