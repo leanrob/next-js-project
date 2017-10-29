@@ -1,17 +1,17 @@
 "use strict";
 
-const ContactMeSectionStyle = () => (
+const SkillsSectionStyle = () => (
 	<style jsx>{`
-      	.contactMe-section {
-        	background: #C7EFCF;
+      	.skills-section {
+        	background: #D6D1B1;
         	text-align: center;
         	padding: 50px;
       	}
-      	@media (min-width: 320px) {
-        
+        @media (min-width: 320px) {
+
       	}
       	@media (min-width: 480px) {
-        
+
       	}
       	@media (min-width: 600px) {
 
@@ -23,10 +23,10 @@ const ContactMeSectionStyle = () => (
 
       	}
       	@media (min-width: 1281px) {
-
+        
       }
 	`}
 	</style>
 )
 
-export default ContactMeSectionStyle
+export default SkillsSectionStyle

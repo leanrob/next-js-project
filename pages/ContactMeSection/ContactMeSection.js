@@ -1,3 +1,7 @@
+"use strict";
+
+import React from 'react'
+
 import ContactMeSectionStyle from "../../styles/contactMeSection.style.js"
 
 const ContactMeSection = () => (
@@ -5,6 +9,6 @@ const ContactMeSection = () => (
 		<h1>Contact Me</h1>
 		<ContactMeSectionStyle/>
 	</div>
-)
+);
 
 export default ContactMeSection

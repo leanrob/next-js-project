@@ -15,10 +15,10 @@ var _jsxFileName = "/Users/robert/Git/next-js-project/styles/headerSection.style
 var HeaderSectionStyle = function HeaderSectionStyle() {
   return _react2.default.createElement("style", { jsx: true, __source: {
       fileName: _jsxFileName,
-      lineNumber: 2
+      lineNumber: 4
     }
-  }, "\n      .header-section {\n        background: url(\"http://leanrob.com/wp-content/uploads/2016/08/Gmail-bkgrd.png\");\n        text-align: center;\n        padding: 50px;\n      }\n      @media (min-width: 320px) {\n        \n      }\n      @media (min-width: 480px) {\n        \n      }\n      @media (min-width: 600px) {\n        \n      }\n      @media (min-width: 801px) {\n        \n      }\n      @media (min-width: 1025px) {\n        \n      }\n      @media (min-width: 1281px) {\n        \n      }\n\t");
+  }, "\n      \t.header-section {\n        \tbackground: #EEF5DB;\n        \ttext-align: center;\n        \tpadding: 50px;\n      \t}\n        @media (min-width: 320px) {\n\n      \t}\n      \t@media (min-width: 480px) {\n\n      \t}\n      \t@media (min-width: 600px) {\n\n      \t}\n      \t@media (min-width: 801px) {\n\n      \t}\n      \t@media (min-width: 1025px) {\n\n      \t}\n      \t@media (min-width: 1281px) {\n        \n      }\n\t");
 };
 
 exports.default = HeaderSectionStyle;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy9oZWFkZXJTZWN0aW9uLnN0eWxlLmpzIl0sIm5hbWVzIjpbIkhlYWRlclNlY3Rpb25TdHlsZSJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7QUFBQSxJQUFNLHFCQUFxQixTQUFyQixBQUFxQixxQkFBQTt5QkFDMUIsY0FBQSxXQUFPLEtBQVA7Z0JBQUE7a0JBQUE7QUFBQTtHQUFBLEVBRDBCLEFBQzFCO0FBREQsQUE2QkE7O2tCQUFBLEFBQWUiLCJmaWxlIjoiaGVhZGVyU2VjdGlvbi5zdHlsZS5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvcm9iZXJ0L0dpdC9uZXh0LWpzLXByb2plY3QifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy9oZWFkZXJTZWN0aW9uLnN0eWxlLmpzIl0sIm5hbWVzIjpbIkhlYWRlclNlY3Rpb25TdHlsZSJdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7Ozs7Ozs7Ozs7O0FBRUEsSUFBTSxxQkFBcUIsU0FBckIsQUFBcUIscUJBQUE7eUJBQzFCLGNBQUEsV0FBTyxLQUFQO2dCQUFBO2tCQUFBO0FBQUE7R0FBQSxFQUQwQixBQUMxQjtBQURELEFBNkJBOztrQkFBQSxBQUFlIiwiZmlsZSI6ImhlYWRlclNlY3Rpb24uc3R5bGUuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL3JvYmVydC9HaXQvbmV4dC1qcy1wcm9qZWN0In0=
