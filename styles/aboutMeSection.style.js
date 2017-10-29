@@ -27,6 +27,6 @@ const AboutMeSectionStyle = () => (
       }
 	`}
 	</style>
-)
+);
 
 export default AboutMeSectionStyle

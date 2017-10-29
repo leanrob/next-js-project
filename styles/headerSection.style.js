@@ -27,6 +27,6 @@ const HeaderSectionStyle = () => (
       }
 	`}
 	</style>
-)
+);
 
 export default HeaderSectionStyle
