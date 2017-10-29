@@ -27,6 +27,6 @@ const ContactMeSectionStyle = () => (
       }
 	`}
 	</style>
-)
+);
 
 export default ContactMeSectionStyle
