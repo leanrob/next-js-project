@@ -1,9 +1,11 @@
-import HeaderSection from "./headerSection.js"
+import HeaderSection from "./HeaderSection.js"
+import ContactMeSection from "./ContactMeSection/ContactMeSection.js"
 
 const Index = () => (
 	<div>
 
 		<HeaderSection />
+		<ContactMeSection />
 		
 	    <style global jsx>{`
 	      body {
