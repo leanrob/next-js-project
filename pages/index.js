@@ -11,20 +11,20 @@ import StartupAcceleratorSection from "./StartupAcceleratorSection/StartupAccele
 
 const Index = () => (
 	<div>
-
 		<HeaderSection />
 		<AboutMeSection />
 		<SkillsSection />
 		<HackathonSection />
 		<StartupAcceleratorSection />
 		<ContactMeSection />
-		
+
 	    <style global jsx>{`
 	      	body {
 	        	color: black;
 	        	font-family: courier;
 	      	}
-	    `}</style>
+	    `}
+	    </style>
 	</div>
 );
 
