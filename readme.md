@@ -27,6 +27,9 @@ The following are some of the technologies, frameworks and methodologies that I 
 [https://github.com/yarnpkg](https://github.com/yarnpkg)
 [https://github.com/npm](https://github.com/npm)
 
+[Semantic UI React](https://react.semantic-ui.com/introduction)
+[https://react.semantic-ui.com/introduction](https://react.semantic-ui.com/introduction)
+
 GitFlow and Git
 [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
 

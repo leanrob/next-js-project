@@ -1,6 +1,7 @@
 "use strict";
 
 import React from 'react'
+import { Button } from 'semantic-ui-react'
 
 import HeaderSection from "./HeaderSection/HeaderSection.js"
 import ContactMeSection from "./ContactMeSection/ContactMeSection.js"
@@ -11,6 +12,12 @@ import StartupAcceleratorSection from "./StartupAcceleratorSection/StartupAccele
 
 const Index = () => (
 	<div>
+		<Button
+			color='red'
+			content='Like'
+			icon='heart'
+			label={{ basic: true, color: 'red', pointing: 'left', content: '2,048' }}
+		/>
 		<HeaderSection />
 		<AboutMeSection />
 		<SkillsSection />
@@ -25,6 +32,7 @@ const Index = () => (
 	      	}
 	    `}
 	    </style>
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"></link>
 	</div>
 );
 
